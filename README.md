@@ -1,5 +1,5 @@
 # Grimstone-Texturepack
-This is a Grimstone Texturepack with Optifine and 1.16 which let it look like there is Grimstone below Y=23
+This is a Grimstone Texturepack with Optifine and 1.16 which let it look like there is Grimstone/Deepslate below Y=23
 
 Old ore versions have the old (pre 1.17) ore textures, but with the new Deepslate/Grimstone Background!
 
